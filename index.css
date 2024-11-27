@@ -4,9 +4,10 @@
     box-sizing: border-box;
 }
 .s{
+    background: linear-gradient(to bottom right, rgb(234, 0, 255), rgb(142, 4, 255));
     color: white;
     text-align: center;
-    font-size: 10px;
+    font-size: 20px;
 }
 .m{
     background: linear-gradient(to bottom right, rgb(234, 0, 255), rgb(142, 4, 255));
