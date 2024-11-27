@@ -3,7 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+.m>.s{
+    padding-bottom: 200px;
+    color: black;
+}
 .m{
     background: linear-gradient(to bottom right, rgb(234, 0, 255), rgb(142, 4, 255));
     /* display: flex; */
@@ -11,7 +14,7 @@
     text-align: center;
     align-items: center;
     height: 100vh;
-    padding-top: 250px;
+    /* padding-top: 250px; */
 }
 .m h1{
     font-size: 50px;
